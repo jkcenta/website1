@@ -2,8 +2,6 @@
 title: "website1"
 ---
 
-This is a Quarto website.
-
 *PSET 3:* This visualization shows how often NBA teams played one another during the 2022 regular season, with teams ordered and faceted by division.
 
 ![](images/nba_matchups_faceted.png){width="85%"}
