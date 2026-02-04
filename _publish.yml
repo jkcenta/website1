@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 3cfaf685-18a7-473f-95ad-c63e777fb6ad
+      url: https://jcenta.quarto.pub/website1
